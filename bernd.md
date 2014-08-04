@@ -1,3 +1,3 @@
 # 00 - Prolog
 
-Dies ist ein Test.
+Dies ist ein erster Test.
